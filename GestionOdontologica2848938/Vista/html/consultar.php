@@ -5,6 +5,8 @@
     <title>Sistema de Gestión Odontológica</title>
     <link rel="stylesheet" type="text/css" href="Vista/css/estilos.css">
     <script type="text/javascript" src="Vista/jquery/jquery-3.7.1-min.js"></script>
+    <script type="text/javascript" src="Vista/jquery/jquery-ui-1.14.1.custom/jquery-ui.js"></script>
+	<link rel="stylesheet" type="text/css" href="Vista/jquery/jquery-ui-1.14.1.custom/jquery-ui.min.css"/>
     <script type="text/javascript" src="Vista/js/script.js"></script>
 </head>
 
